@@ -1,0 +1,13 @@
+/.streamlit/secrets.toml
+
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local environment secrets
+.env
+.env.*
